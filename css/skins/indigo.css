@@ -1,0 +1,42 @@
+.Home,
+.section-title .title::before,
+.header,
+.feature-row .feature-items:hover,
+.product .owl-carousel .owl-nav button.owl-next,
+.product .owl-carousel .owl-nav button.owl-prev,
+.testimonial .owl-carousel .owl-nav button.owl-next:hover,
+.testimonial .owl-carousel .owl-nav button.owl-prev:hover,
+.testimonial::before,
+.newslatter::before,
+.mybtn2,
+.mybtn3,
+.footer
+
+ {
+    background-color: #6400ae;
+   
+}
+
+
+.mybtn1:hover,
+.about .about-content ul li i,
+.feature-row .feature-items i,
+.section-title .title,
+.mybtn1,
+.product-contant .new-price,
+.testimonial .owl-carousel .owl-nav button.owl-next span,
+.testimonial .owl-carousel .owl-nav button.owl-prev span,
+#faq-item-row .question a,
+.location-area .icon i,
+.location-info .heading,
+.footer .socal-links i:hover
+{
+    color: #6400ae;
+}
+
+
+.testi-item .customer-info img,
+.contact-form .form-control:focus
+ {
+    border-color: #6400ae;
+}
